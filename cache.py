@@ -73286,5 +73286,23 @@ cache="""  - DOMAIN-KEYWORD,openai,🤖 ChatBot
   - DOMAIN-SUFFIX,nejm.org,科研平台
   - DOMAIN-SUFFIX,icevirtuallibrary.com,科研平台
   - DOMAIN-SUFFIX,cdnsciencepub.com,科研平台
+  - DOMAIN-SUFFIX,manual.gromacs.org,科研平台,DIRECT
+  - DOMAIN-KEYWORD,sci-hub,科研平台,DIRECT
+  - DOMAIN-SUFFIX,ccdc.cam.ac.uk,科研平台,DIRECT
+  - DOMAIN-KEYWORD,wiley,科研平台,DIRECT
+  - DOMAIN-KEYWORD,pubs,科研平台,DIRECT
+  - DOMAIN-KEYWORD,translate,科研平台,DIRECT
+  - DOMAIN-KEYWORD,docs,科研平台,DIRECT
+  - DOMAIN-KEYWORD,onenote,科研平台,DIRECT
+  - DOMAIN-KEYWORD,office,科研平台,DIRECT
+  - DOMAIN-KEYWORD,microsoft,科研平台,DIRECT
+  - DOMAIN-SUFFIX,digicert.com,科研平台,DIRECT
+  - DOMAIN-SUFFIX,sciencedirect.com,科研平台,DIRECT
+  - DOMAIN-SUFFIX,iresearchbook.cn,科研平台,DIRECT
+  - DOMAIN-SUFFIX,elsevier.com,科研平台,DIRECT
+  - DOMAIN-SUFFIX,nature.com,科研平台,DIRECT
+  - DOMAIN-SUFFIX,webofknowledge.com,科研平台,DIRECT
+  - DOMAIN-SUFFIX,pubs.acs.org,科研平台,DIRECT
+  - DOMAIN-SUFFIX,scitation.org,科研平台,DIRECT
   - GEOIP,CN,🎯 全球直连
   - MATCH,🐟 漏网之鱼"""
