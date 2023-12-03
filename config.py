@@ -41,6 +41,7 @@ ruleset = [
     ["🎯 全球直连", "https://raw.githubusercontent.com/SubConv/ZJU-Rule/main/Clash/Download.list"],
     ["科研平台", "https://raw.githubusercontent.com/SubConv/ZJU-Rule/main/Clash/ZJU-More-Scholar.list"],
     ["科研平台", "https://raw.githubusercontent.com/SubConv/ZJU-Rule/main/Clash/ZJU.list"],
+    ["科研平台", "https://github.com/WangChuDi/SubConv/raw/main/paperrule.list"],
     ["🎯 全球直连", "[]GEOIP,CN"],
     ["🐟 漏网之鱼", "[]FINAL"]
 ]
